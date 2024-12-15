@@ -1,0 +1,229 @@
+body{
+    background-color: lightgray;
+    font-family: "Manrope", sans-serif;
+    font-size: 100%;
+
+}
+
+ul {
+    padding-top: 30px;
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.container{
+    /*width: 1200px;*/
+    max-width: 1200px;
+    background-color: #ffff;
+    height:auto;
+    margin: auto;
+}
+
+#nav{
+    background-color: black;
+    color: white;
+    font-size: 100%;
+    height: 90px;
+    max-width: 100%;
+}
+
+.header{
+    display: flex;
+    text-align: center;
+    max-width: 100%
+}
+
+#headerImage{
+    max-width: 60%;
+    padding-left: 13%;
+    padding-top: 9.167%;
+    padding-right: 1.67%;
+}
+
+#desc{
+    font-family: "Manrope", sans-serif;
+    font-size: 150%;
+    color: #D40035;
+    padding-left: 108px;
+    padding-top: 239px;
+    font-weight: bolder;
+    max-width: 40%;
+    
+}
+
+#mainheading{
+    font-family: "Opake", serif;
+    font-size: 250%;
+    text-align: center;
+    color: black; 
+    max-width: 40%
+}
+
+#aboutImage{
+    width: 100%;
+    max-width: 40%;
+    position: absolute; 
+    top: 125%;
+    left: 10%;
+}
+
+#textContainer{
+    color: white;
+    position: absolute;
+    top: 135%;
+    left: 60%;
+    max-width: 20%;
+    height: 298px;
+    text-align: left;
+    font-size: 100%;
+}
+
+.contactHeader{
+    height: auto;
+    margin-bottom: 0;
+}
+
+.contactHeader h1{
+    font-family: "Opake", serif;
+    font-size: 200px; 
+    text-align: center;
+}
+
+.indexFooter{
+    background-color: black;
+    color: white;
+    height: 56px;
+    font-size: 12px; 
+    font-weight: bold;
+    margin-top: 234px;
+    padding-top: 20px;
+    padding-left: 24px;
+    max-width: 100%;
+}
+
+.contactFooter{
+    background-color: black;
+    color: white;
+    height: 56px;
+    font-size: 12px; 
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 26px;
+    max-width:100%;
+}
+
+.icon{
+    max-width: 10%;
+    height:auto;
+    position: relative;
+    left: 577px;
+}
+
+.info{
+    color: #D40034;
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+    padding-left: 45px;
+
+}
+
+#contactImage{
+    max-width: 100%px;
+    margin-left: 118px;
+    margin-top: 120px;
+    margin-bottom: 0px;
+    height: 846px;
+    
+}
+
+
+.portfolioHeader h1{
+    font-family: "Opake", serif;
+    font-size: 175px; 
+    text-align: center;
+}
+
+
+.portfolioFooter{
+    background-color: black;
+    color: white;
+    height: 56px;
+    font-size: 12px; 
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 26px;
+    max-width: 100%;
+}
+
+.dahliaBrand img{
+    width: 100%;
+    max-width: 75%;
+    
+}
+
+.center{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    text-align: center;
+}
+
+.dahliaBrand h2{
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 95px;
+}
+
+.divider img{
+    width:100%;
+    max-width: 5%;
+}
+
+.divider{
+    margin-top: 163px;
+    margin-bottom: 163px;
+}
+
+.boilerRoom img{
+    width: 100%;
+    max-width: 50%;
+}
+
+.boilerRoom h2{
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 95px;
+}
+
+.editorialSpreads img{
+    width:100%;
+    max-width: 50%;
+    padding-bottom: 0px;
+}
+
+.editorialSpreads h2{
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 95px;
+}
+
+.editorialSpreads{
+    margin-bottom: 312px;
+}
